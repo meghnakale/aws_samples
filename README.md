@@ -1,5 +1,7 @@
 # aws_samples
 
-Install python boto 
+Installation Steps :
 
-pip install boto
+1) Install python boto library.
+
+    pip install boto
